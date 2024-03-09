@@ -1,0 +1,20 @@
+
+body {
+    background-image: url('1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+iframe {
+    border: none;
+    background-color: rgba(255, 255, 255, 0.8);
+    position: fixed;
+    top: 20px; 
+    right: 20px;
+}
